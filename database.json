@@ -57,10 +57,73 @@
           }
     ],
     "streamingServices": [
+        {
+            "id": 1,
+            "service": "Netflix"
+          },
+          {
+            "id": 2,
+            "service": "Amazon Prime Video"
+          },
+          {
+            "id": 3,
+            "service": "Hulu"
+          },
+          {
+            "id": 4,
+            "service": "Disney+"
+          },
+          {
+            "id": 5,
+            "service": "HBO Max"
+          },
+          {
+            "id": 6,
+            "service": "Apple TV+"
+          },
+          {
+            "id": 7,
+            "service": "Google Play Movies & TV"
+          },
+          {
+            "id": 8,
+            "service": "Vudu"
+          },
+          {
+            "id": 9,
+            "service": "Paramount+"
+          },
+          {
+            "id": 10,
+            "service": "Tubi"
+          }
 
     ],
     "mpaRatings": [
-
+        {
+            "id": 1,
+            "mpaRating": "G"
+          },
+          {
+            "id": 2,
+            "mpaRating": "PG"
+          },
+          {
+            "id": 3,
+            "mpaRating": "PG-13"
+          },
+          {
+            "id": 4,
+            "mpaRating": "R"
+          },
+          {
+            "id": 5,
+            "mpaRating": "NC-17"
+          },
+          {
+            "id": 6,
+            "mpaRating": "Unrated"
+          }
     ],
     "movies": [
 

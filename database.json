@@ -136,7 +136,7 @@
         "id": 2,
         "genreId": 7,
         "streamingServiceId": 4,
-        "mpaRatingId": 1,
+        "mpaRatingId": 2,
         "description": "A magical animated adventure set in a Colombian town where each child has a unique gift."
         },
         {
@@ -186,183 +186,311 @@
         "streamingServiceId": 3,
         "mpaRatingId": 3,
         "description": "An adventure film where dinosaurs are brought back to life in a theme park."
-      },
-      {
+    },
+    {
         "name": "The Lion King",
         "id": 9,
         "genreId": 7,
         "streamingServiceId": 4,
         "mpaRatingId": 1,
         "description": "A Disney animated classic about a young lion's journey to reclaim his kingdom."
-      },
-      {
+    },
+    {
         "name": "The Godfather",
         "id": 10,
         "genreId": 3,
         "streamingServiceId": 1,
         "mpaRatingId": 4,
         "description": "An iconic crime drama exploring the dark underworld of organized crime."
-      },
-      {
+    },
+    {
         "name": "Black Panther",
         "id": 11,
         "genreId": 11,
         "streamingServiceId": 4,
         "mpaRatingId": 3,
         "description": "A groundbreaking superhero film that celebrates African culture and tackles important social themes."
-      },
-      {
+    },
+    {
         "name": "The Social Network",
         "id": 12,
         "genreId": 3,
         "streamingServiceId": 2,
         "mpaRatingId": 3,
         "description": "A gripping drama based on the founding of Facebook and the ensuing controversies."
-      },
-      {
+    },
+    {
         "name": "The Matrix",
         "id": 13,
         "genreId": 9,
         "streamingServiceId": 6,
         "mpaRatingId": 3,
         "description": "A mind-bending sci-fi film that explores the nature of reality and the human condition."
-      },
-      {
+    },
+    {
         "name": "Titanic",
         "id": 14,
         "genreId": 4,
         "streamingServiceId": 9,
         "mpaRatingId": 3,
         "description": "An epic romantic disaster film set aboard the ill-fated RMS Titanic."
-      },
-      {
+    },
+    {
         "name": "The Avengers",
         "id": 15,
         "genreId": 11,
         "streamingServiceId": 4,
         "mpaRatingId": 3,
         "description": "A superhero ensemble film that brings together Marvel's iconic characters."
-      },
-      {
+    },
+    {
         "name": "Forrest Gump",
         "id": 16,
         "genreId": 2,
         "streamingServiceId": 7,
         "mpaRatingId": 3,
         "description": "A heartwarming and inspiring film that follows the extraordinary life of Forrest Gump."
-      },
-      {
+    },
+    {
         "name": "The Lord of the Rings: The Fellowship of the Ring",
         "id": 17,
         "genreId": 6,
         "streamingServiceId": 3,
         "mpaRatingId": 3,
         "description": "The first installment in the epic fantasy trilogy based on J.R.R. Tolkien's novels."
-      },
-      {
+    },
+    {
         "name": "Interstellar",
         "id": 18,
         "genreId": 9,
         "streamingServiceId": 8,
         "mpaRatingId": 3,
         "description": "A thought-provoking sci-fi film about space exploration, time dilation, and the survival of humanity."
-      },
-      {
+    },
+    {
         "name": "Inglourious Basterds",
         "id": 19,
         "genreId": 1,
         "streamingServiceId": 6,
         "mpaRatingId": 4,
         "description": "A Tarantino war film that follows a group of Jewish-American soldiers on a mission to assassinate Nazis."
-      },
-      {
+    },
+    {
         "name": "The Incredibles",
         "id": 20,
         "genreId": 11,
         "streamingServiceId": 4,
         "mpaRatingId": 2,
         "description": "An animated superhero film about a family with superpowers trying to save the world."
-      },
-      {
+    },
+    {
         "name": "The Silence of the Lambs",
         "id": 21,
         "genreId": 8,
         "streamingServiceId": 3,
         "mpaRatingId": 4,
         "description": "A psychological thriller featuring iconic characters like Hannibal Lecter and Clarice Starling."
-      },
-      {
+    },
+    {
         "name": "Inception",
         "id": 22,
         "genreId": 1,
         "streamingServiceId": 2,
         "mpaRatingId": 3,
         "description": "A mind-bending sci-fi thriller about dream heists and the power of the human mind."
-      },
-      {
+    },
+    {
         "name": "The Grand Budapest Hotel",
         "id": 23,
         "genreId": 2,
         "streamingServiceId": 6,
         "mpaRatingId": 4,
         "description": "A whimsical comedy-drama set in a fictional European hotel during the interwar period."
-      },
-      {
+    },
+    {
         "name": "Mad Max: Fury Road",
         "id": 24,
         "genreId": 6,
         "streamingServiceId": 8,
         "mpaRatingId": 4,
         "description": "A thrilling post-apocalyptic action film set in a dystopian wasteland."
-      },
-      {
+    },
+    {
         "name": "The Departed",
         "id": 25,
         "genreId": 5,
         "streamingServiceId": 1,
         "mpaRatingId": 4,
         "description": "A gripping crime thriller about undercover agents and mob infiltration in Boston."
-      },
-      {
+    },
+    {
         "name": "The Shape of Water",
         "id": 26,
         "genreId": 4,
         "streamingServiceId": 3,
         "mpaRatingId": 4,
         "description": "A romantic fantasy film about a mute custodian who forms a unique connection with an amphibious creature."
-      },
-      {
+    },
+    {
         "name": "Gone Girl",
         "id": 27,
         "genreId": 10,
         "streamingServiceId": 5,
         "mpaRatingId": 4,
         "description": "A psychological thriller that explores the dark secrets and complexities of a troubled marriage."
-      },
-      {
+    },
+    {
         "name": "The Revenant",
         "id": 28,
         "genreId": 12,
         "streamingServiceId": 8,
         "mpaRatingId": 4,
         "description": "A survival drama set in the 1820s American frontier, based on a true story."
-      },
-      {
+    },
+    {
         "name": "La La Land",
         "id": 29,
         "genreId": 13,
         "streamingServiceId": 1,
         "mpaRatingId": 3,
         "description": "A romantic musical that follows the love story of an aspiring actress and a jazz pianist in Los Angeles."
-      },
-      {
+    },
+    {
         "name": "The Prestige",
         "id": 30,
         "genreId": 5,
         "streamingServiceId": 7,
         "mpaRatingId": 3,
         "description": "A mystery thriller about two rival magicians in late 19th-century London."
-      }
+    },
+    {
+        "name": "The Good, the Bad and the Ugly",
+        "id": 31,
+        "genreId": 12,
+        "streamingServiceId": 1,
+        "mpaRatingId": 3,
+        "description": "A classic spaghetti Western directed by Sergio Leone, featuring three gunslingers in search of buried treasure during the American Civil War."
+    },
+    {
+        "name": "Toy Story",
+        "id": 32,
+        "genreId": 6,
+        "streamingServiceId": 4,
+        "mpaRatingId": 1,
+        "description": "A heartwarming animated film about the secret life of toys."
+    },
+    {
+        "name": "Finding Nemo",
+        "id": 33,
+        "genreId": 6,
+        "streamingServiceId": 7,
+        "mpaRatingId": 1,
+        "description": "An underwater adventure of a clownfish searching for his son."
+    },
+    {
+        "name": "Frozen",
+        "id": 34,
+        "genreId": 7,
+        "streamingServiceId": 4,
+        "mpaRatingId": 1,
+        "description": "Two sisters learn that their love is all they need."
+    },
+    {
+        "name": "Coco",
+        "id": 35,
+        "genreId": 7,
+        "streamingServiceId": 4,
+        "mpaRatingId": 1,
+        "description": "A vibrant animated film that celebrates the Mexican holiday, Day of the Dead."
+    },
+    {
+        "name": "Moana",
+        "id": 36,
+        "genreId": 7,
+        "streamingServiceId": 4,
+        "mpaRatingId": 1,
+        "description": "An adventurous tale of a young girl setting sail on a daring journey."
+    },
+    {
+        "name": "Ready Player One",
+        "id": 37,
+        "genreId": 9,
+        "streamingServiceId": 10,
+        "mpaRatingId": 3,
+        "description": "A thrilling adventure set in a virtual reality world where players compete to find an Easter egg that holds immense power."
+    },
+    {
+        "name": "The Green Knight",
+        "id": 38,
+        "genreId": 6,
+        "streamingServiceId": 10,
+        "mpaRatingId": 4,
+        "description": "A medieval fantasy film based on the Arthurian legend of Sir Gawain and the Green Knight."
+    },
+    {
+        "name": "Dark Skies",
+        "id": 39,
+        "genreId": 8,
+        "streamingServiceId": 10,
+        "mpaRatingId": 4,
+        "description": "A supernatural horror film about a suburban family plagued by a series of disturbing events."
+    },
+    {
+        "name": "The Visit",
+        "id": 40,
+        "genreId": 8,
+        "streamingServiceId": 10,
+        "mpaRatingId": 4,
+        "description": "A found footage horror film where two siblings visit their grandparents' remote farmhouse and encounter terrifying events."
+    },
+    {
+        "name": "Atlantic Rim",
+        "id": 41,
+        "genreId": 1,
+        "streamingServiceId": 10,
+        "mpaRatingId": 3,
+        "description": "A sci-fi action film following a team of pilots who operate giant robots to defend against monstrous creatures from the ocean."
+    },
+    {
+        "name": "Knives Out",
+        "id": 42,
+        "genreId": 10,
+        "streamingServiceId": 9,
+        "mpaRatingId": 4,
+        "description": "A modern whodunit murder mystery that follows a renowned detective investigating the death of a wealthy patriarch."
+    },
+    {
+        "name": "The Sound of Music",
+        "id": 43,
+        "genreId": 13,
+        "streamingServiceId": 6,
+        "mpaRatingId": 2,
+        "description": "A classic musical about a young woman who becomes a governess for a widower's seven children and brings music and joy back into their lives."
+    },
+    {
+        "name": "The Greatest Showman",
+        "id": 44,
+        "genreId": 13,
+        "streamingServiceId": 8,
+        "mpaRatingId": 2,
+        "description": "A musical inspired by the life of P.T. Barnum and the creation of his famous circus."
+    },
+    {
+        "name": "Mamma Mia!",
+        "id": 45,
+        "genreId": 13,
+        "streamingServiceId": 7,
+        "mpaRatingId": 2,
+        "description": "A feel-good musical featuring the hits of ABBA and a story set on a Greek island."
+    },
+    {
+        "name": "Hamilton",
+        "id": 46,
+        "genreId": 13,
+        "streamingServiceId": 4,
+        "mpaRatingId": 2,
+        "description": "A groundbreaking musical that blends hip-hop, history, and the story of American founding father Alexander Hamilton."
+    }
     ],
     "movieWatchBreakdowns": [
     [

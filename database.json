@@ -1,135 +1,371 @@
 {
-    "users": [
-
-    ],
+    "users": [],
     "genres": [
-        {
-            "id": 1,
-            "genre": "Action"
-          },
-          {
-            "id": 2,
-            "genre": "Comedy"
-          },
-          {
-            "id": 3,
-            "genre": "Drama"
-          },
-          {
-            "id": 4,
-            "genre": "Romance"
-          },
-          {
-            "id": 5,
-            "genre": "Thriller"
-          },
-          {
-            "id": 6,
-            "genre": "Adventure"
-          },
-          {
-            "id": 7,
-            "genre": "Animation"
-          },
-          {
-            "id": 8,
-            "genre": "Horror"
-          },
-          {
-            "id": 9,
-            "genre": "Sci-Fi"
-          },
-          {
-            "id": 10,
-            "genre": "Mystery"
-          },
-          {
-            "id": 11,
-            "genre": "Superhero"
-          },
-          {
-            "id": 12,
-            "genre": "Western"
-          },
-          {
-            "id": 13,
-            "genre": "Musical"
-          }
+    {
+      "id": 1,
+      "genre": "Action"
+    },
+    {
+      "id": 2,
+      "genre": "Comedy"
+    },
+    {
+      "id": 3,
+      "genre": "Drama"
+    },
+    {
+      "id": 4,
+      "genre": "Romance"
+    },
+    {
+      "id": 5,
+      "genre": "Thriller"
+    },
+    {
+      "id": 6,
+      "genre": "Adventure"
+    },
+    {
+      "id": 7,
+      "genre": "Animation"
+    },
+    {
+      "id": 8,
+      "genre": "Horror"
+    },
+    {
+      "id": 9,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 10,
+      "genre": "Mystery"
+    },
+    {
+      "id": 11,
+      "genre": "Superhero"
+    },
+    {
+      "id": 12,
+      "genre": "Western"
+    },
+    {
+      "id": 13,
+      "genre": "Musical"
+    }
     ],
     "streamingServices": [
-        {
-            "id": 1,
-            "service": "Netflix"
-          },
-          {
-            "id": 2,
-            "service": "Amazon Prime Video"
-          },
-          {
-            "id": 3,
-            "service": "Hulu"
-          },
-          {
-            "id": 4,
-            "service": "Disney+"
-          },
-          {
-            "id": 5,
-            "service": "HBO Max"
-          },
-          {
-            "id": 6,
-            "service": "Apple TV+"
-          },
-          {
-            "id": 7,
-            "service": "Google Play Movies & TV"
-          },
-          {
-            "id": 8,
-            "service": "Vudu"
-          },
-          {
-            "id": 9,
-            "service": "Paramount+"
-          },
-          {
-            "id": 10,
-            "service": "Tubi"
-          }
-
+    {
+      "id": 1,
+      "service": "Netflix"
+    },
+    {
+      "id": 2,
+      "service": "Amazon Prime Video"
+    },
+    {
+      "id": 3,
+      "service": "Hulu"
+    },
+    {
+      "id": 4,
+      "service": "Disney+"
+    },
+    {
+      "id": 5,
+      "service": "HBO Max"
+    },
+    {
+      "id": 6,
+      "service": "Apple TV+"
+    },
+    {
+      "id": 7,
+      "service": "Google Play Movies & TV"
+    },
+    {
+      "id": 8,
+      "service": "Vudu"
+    },
+    {
+      "id": 9,
+      "service": "Paramount+"
+    },
+    {
+      "id": 10,
+      "service": "Tubi"
+    }
     ],
     "mpaRatings": [
-        {
-            "id": 1,
-            "mpaRating": "G"
-          },
-          {
-            "id": 2,
-            "mpaRating": "PG"
-          },
-          {
-            "id": 3,
-            "mpaRating": "PG-13"
-          },
-          {
-            "id": 4,
-            "mpaRating": "R"
-          },
-          {
-            "id": 5,
-            "mpaRating": "NC-17"
-          },
-          {
-            "id": 6,
-            "mpaRating": "Unrated"
-          }
+    {
+      "id": 1,
+      "mpaRating": "G"
+    },
+    {
+      "id": 2,
+      "mpaRating": "PG"
+    },
+    {
+      "id": 3,
+      "mpaRating": "PG-13"
+    },
+    {
+      "id": 4,
+      "mpaRating": "R"
+    },
+    {
+      "id": 5,
+      "mpaRating": "NC-17"
+    },
+    {
+      "id": 6,
+      "mpaRating": "Unrated"
+    }
     ],
     "movies": [
-
+        {
+        "name": "Avengers: Endgame",
+        "id": 1,
+        "genreId": 11,
+        "streamingServiceId": 4,
+        "mpaRatingId": 3,
+        "description": "The epic conclusion to the Marvel Cinematic Universe's Infinity Saga."
+        },
+        {
+        "name": "Encanto",
+        "id": 2,
+        "genreId": 7,
+        "streamingServiceId": 4,
+        "mpaRatingId": 1,
+        "description": "A magical animated adventure set in a Colombian town where each child has a unique gift."
+        },
+        {
+        "name": "Star Wars: A New Hope",
+        "id": 3,
+        "genreId": 9,
+        "streamingServiceId": 4,
+        "mpaRatingId": 2,
+        "description": "The classic space opera that started the iconic Star Wars franchise."
+        },
+        {
+        "name": "The Shawshank Redemption",
+        "id": 4,
+        "genreId": 3,
+        "streamingServiceId": 10,
+        "mpaRatingId": 4,
+        "description": "A powerful drama about hope and redemption in the prison system."
+        },
+        {
+        "name": "The Dark Knight",
+        "id": 5,
+        "genreId": 11,
+        "streamingServiceId": 5,
+        "mpaRatingId": 3,
+        "description": "A thrilling superhero film that explores the complex nature of good and evil."
+        },
+        {
+        "name": "Pulp Fiction",
+        "id": 6,
+        "genreId": 3,
+        "streamingServiceId": 1,
+        "mpaRatingId": 4,
+        "description": "A Quentin Tarantino masterpiece featuring intersecting stories of crime and redemption."
+        },
+        {
+        "name": "Inception",
+        "id": 7,
+        "genreId": 1,
+        "streamingServiceId": 2,
+        "mpaRatingId": 3,
+        "description": "A mind-bending sci-fi thriller about dream heists and the power of the human mind."
+        },
+        {
+        "name": "Jurassic Park",
+        "id": 8,
+        "genreId": 6,
+        "streamingServiceId": 3,
+        "mpaRatingId": 3,
+        "description": "An adventure film where dinosaurs are brought back to life in a theme park."
+      },
+      {
+        "name": "The Lion King",
+        "id": 9,
+        "genreId": 7,
+        "streamingServiceId": 4,
+        "mpaRatingId": 1,
+        "description": "A Disney animated classic about a young lion's journey to reclaim his kingdom."
+      },
+      {
+        "name": "The Godfather",
+        "id": 10,
+        "genreId": 3,
+        "streamingServiceId": 1,
+        "mpaRatingId": 4,
+        "description": "An iconic crime drama exploring the dark underworld of organized crime."
+      },
+      {
+        "name": "Black Panther",
+        "id": 11,
+        "genreId": 11,
+        "streamingServiceId": 4,
+        "mpaRatingId": 3,
+        "description": "A groundbreaking superhero film that celebrates African culture and tackles important social themes."
+      },
+      {
+        "name": "The Social Network",
+        "id": 12,
+        "genreId": 3,
+        "streamingServiceId": 2,
+        "mpaRatingId": 3,
+        "description": "A gripping drama based on the founding of Facebook and the ensuing controversies."
+      },
+      {
+        "name": "The Matrix",
+        "id": 13,
+        "genreId": 9,
+        "streamingServiceId": 6,
+        "mpaRatingId": 3,
+        "description": "A mind-bending sci-fi film that explores the nature of reality and the human condition."
+      },
+      {
+        "name": "Titanic",
+        "id": 14,
+        "genreId": 4,
+        "streamingServiceId": 9,
+        "mpaRatingId": 3,
+        "description": "An epic romantic disaster film set aboard the ill-fated RMS Titanic."
+      },
+      {
+        "name": "The Avengers",
+        "id": 15,
+        "genreId": 11,
+        "streamingServiceId": 4,
+        "mpaRatingId": 3,
+        "description": "A superhero ensemble film that brings together Marvel's iconic characters."
+      },
+      {
+        "name": "Forrest Gump",
+        "id": 16,
+        "genreId": 2,
+        "streamingServiceId": 7,
+        "mpaRatingId": 3,
+        "description": "A heartwarming and inspiring film that follows the extraordinary life of Forrest Gump."
+      },
+      {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "id": 17,
+        "genreId": 6,
+        "streamingServiceId": 3,
+        "mpaRatingId": 3,
+        "description": "The first installment in the epic fantasy trilogy based on J.R.R. Tolkien's novels."
+      },
+      {
+        "name": "Interstellar",
+        "id": 18,
+        "genreId": 9,
+        "streamingServiceId": 8,
+        "mpaRatingId": 3,
+        "description": "A thought-provoking sci-fi film about space exploration, time dilation, and the survival of humanity."
+      },
+      {
+        "name": "Inglourious Basterds",
+        "id": 19,
+        "genreId": 1,
+        "streamingServiceId": 6,
+        "mpaRatingId": 4,
+        "description": "A Tarantino war film that follows a group of Jewish-American soldiers on a mission to assassinate Nazis."
+      },
+      {
+        "name": "The Incredibles",
+        "id": 20,
+        "genreId": 11,
+        "streamingServiceId": 4,
+        "mpaRatingId": 2,
+        "description": "An animated superhero film about a family with superpowers trying to save the world."
+      },
+      {
+        "name": "The Silence of the Lambs",
+        "id": 21,
+        "genreId": 8,
+        "streamingServiceId": 3,
+        "mpaRatingId": 4,
+        "description": "A psychological thriller featuring iconic characters like Hannibal Lecter and Clarice Starling."
+      },
+      {
+        "name": "Inception",
+        "id": 22,
+        "genreId": 1,
+        "streamingServiceId": 2,
+        "mpaRatingId": 3,
+        "description": "A mind-bending sci-fi thriller about dream heists and the power of the human mind."
+      },
+      {
+        "name": "The Grand Budapest Hotel",
+        "id": 23,
+        "genreId": 2,
+        "streamingServiceId": 6,
+        "mpaRatingId": 4,
+        "description": "A whimsical comedy-drama set in a fictional European hotel during the interwar period."
+      },
+      {
+        "name": "Mad Max: Fury Road",
+        "id": 24,
+        "genreId": 6,
+        "streamingServiceId": 8,
+        "mpaRatingId": 4,
+        "description": "A thrilling post-apocalyptic action film set in a dystopian wasteland."
+      },
+      {
+        "name": "The Departed",
+        "id": 25,
+        "genreId": 5,
+        "streamingServiceId": 1,
+        "mpaRatingId": 4,
+        "description": "A gripping crime thriller about undercover agents and mob infiltration in Boston."
+      },
+      {
+        "name": "The Shape of Water",
+        "id": 26,
+        "genreId": 4,
+        "streamingServiceId": 3,
+        "mpaRatingId": 4,
+        "description": "A romantic fantasy film about a mute custodian who forms a unique connection with an amphibious creature."
+      },
+      {
+        "name": "Gone Girl",
+        "id": 27,
+        "genreId": 10,
+        "streamingServiceId": 5,
+        "mpaRatingId": 4,
+        "description": "A psychological thriller that explores the dark secrets and complexities of a troubled marriage."
+      },
+      {
+        "name": "The Revenant",
+        "id": 28,
+        "genreId": 12,
+        "streamingServiceId": 8,
+        "mpaRatingId": 4,
+        "description": "A survival drama set in the 1820s American frontier, based on a true story."
+      },
+      {
+        "name": "La La Land",
+        "id": 29,
+        "genreId": 13,
+        "streamingServiceId": 1,
+        "mpaRatingId": 3,
+        "description": "A romantic musical that follows the love story of an aspiring actress and a jazz pianist in Los Angeles."
+      },
+      {
+        "name": "The Prestige",
+        "id": 30,
+        "genreId": 5,
+        "streamingServiceId": 7,
+        "mpaRatingId": 3,
+        "description": "A mystery thriller about two rival magicians in late 19th-century London."
+      }
     ],
     "movieWatchBreakdowns": [
-
+    [
     ]
-
+  ]
 }

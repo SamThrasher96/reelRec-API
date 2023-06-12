@@ -1,5 +1,56 @@
 {
-    "users": [],
+    "users": [
+        {
+        "id": 1,
+        "name": "Sam", 
+        "email": "sam@gmail.com"
+        },
+        {
+        "id": 2,
+        "name": "Casey", 
+        "email": "casey@gmail.com"
+        },
+        {
+        "id": 3,
+        "name": "Logan", 
+        "email": "logan@gmail.com"
+        },
+        {
+        "id": 4,
+        "name": "Kelsey", 
+        "email": "kelsey@gmail.com"
+        },
+        {
+        "id": 5,
+        "name": "Katie", 
+        "email": "katie@gmail.com"
+        },
+        {
+        "id": 6,
+        "name": "Bri", 
+        "email": "bri@gmail.com"
+        },
+        {
+        "id": 7,
+        "name": "Will", 
+        "email": "will@gmail.com"
+        },
+        {
+        "id": 8,
+        "name": "Eleana", 
+        "email": "elena@gmail.com"
+        },
+        {
+        "id": 9,
+        "name": "Megan", 
+        "email": "megan@gmail.com"
+        },
+        {
+        "id": 10,
+        "name": "Emma", 
+        "email": "emma@gmail.com"
+        }
+    ],
     "genres": [
     {
       "id": 1,
@@ -495,5 +546,5 @@
     "movieWatchBreakdowns": [
     [
     ]
-  ]
+]
 }

@@ -46,6 +46,14 @@
           {
             "id": 11,
             "genre": "Superhero"
+          },
+          {
+            "id": 12,
+            "genre": "Western"
+          },
+          {
+            "id": 13,
+            "genre": "Musical"
           }
     ],
     "streamingServices": [

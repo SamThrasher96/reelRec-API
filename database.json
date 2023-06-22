@@ -51,8 +51,8 @@
       "email": "emma@gmail.com"
     },
     {
-      "email": "tiana@gmail.com",
-      "name": "Tiana",
+      "email": "tiana@legolover.com",
+      "name": "Tiana Robinson",
       "id": 11
     },
     {
@@ -64,11 +64,6 @@
       "email": "sefora@gmail.com",
       "name": "Sefora",
       "id": 13
-    },
-    {
-      "email": "allHailDerek@gmail.com",
-      "name": "derek",
-      "id": 14
     }
   ],
   "genres": [
@@ -194,14 +189,6 @@
     }
   ],
   "movies": [
-    {
-      "name": "Avengers: Endgame",
-      "id": 1,
-      "genreId": 11,
-      "streamingServiceId": 4,
-      "mpaRatingId": 3,
-      "description": "The epic conclusion to the Marvel Cinematic Universe's Infinity Saga."
-    },
     {
       "name": "Encanto",
       "id": 2,
@@ -577,9 +564,33 @@
       "mpaRatingId": "3",
       "description": "\"A movie that Bri likes :)\"",
       "id": 48
+    },
+    {
+      "name": "A Walk To Remember",
+      "genreId": "4",
+      "streamingServiceId": "5",
+      "mpaRatingId": "2",
+      "description": "An unlikely friendship forms when Landon meets Jamie while participating in the high school play",
+      "id": 49
+    },
+    {
+      "name": "How to Lose a Guy in Ten Days",
+      "genreId": "4",
+      "streamingServiceId": "7",
+      "mpaRatingId": "3",
+      "description": "An advice columnist tries pushing the boundaries of what she can write about in her new piece about how to get a man to leave you in 10 days.",
+      "id": 50
+    },
+    {
+      "name": "Avengers: Endgame",
+      "genreId": "11",
+      "streamingServiceId": "4",
+      "mpaRatingId": "3",
+      "description": "The conclusion of the epic infinity saga",
+      "id": 51
     }
   ],
-  "movieWatchBreakdowns": [
+  "userFavoriteMovies": [
     []
   ]
 }

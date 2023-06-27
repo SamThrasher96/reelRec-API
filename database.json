@@ -28,7 +28,7 @@
     {
       "id": 6,
       "name": "Bri",
-      "email": "bri@gmail.com"
+      "email": "briLovesPeanutButterCups@gmail.com"
     },
     {
       "id": 7,
@@ -64,6 +64,11 @@
       "email": "sefora@gmail.com",
       "name": "Sefora",
       "id": 13
+    },
+    {
+      "email": "belle@gmail.com",
+      "name": "Belle",
+      "id": 14
     }
   ],
   "genres": [
@@ -441,7 +446,7 @@
       "name": "Finding Nemo",
       "id": 33,
       "genreId": 6,
-      "streamingServiceId": 7,
+      "streamingServiceId": 4,
       "mpaRatingId": 1,
       "description": "An underwater adventure of a clownfish searching for his son."
     },
@@ -588,6 +593,14 @@
       "mpaRatingId": "3",
       "description": "The conclusion of the epic infinity saga",
       "id": 51
+    },
+    {
+      "name": "Dungeons & Dragons: Honor Among Thieves",
+      "genreId": "6",
+      "streamingServiceId": "9",
+      "mpaRatingId": "2",
+      "description": "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic",
+      "id": 52
     }
   ],
   "userFavoriteMovies": [

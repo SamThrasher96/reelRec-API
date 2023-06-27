@@ -593,17 +593,20 @@
       "mpaRatingId": "3",
       "description": "The conclusion of the epic infinity saga",
       "id": 51
-    },
-    {
-      "name": "Dungeons & Dragons: Honor Among Thieves",
-      "genreId": "6",
-      "streamingServiceId": "9",
-      "mpaRatingId": "2",
-      "description": "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic",
-      "id": 52
     }
   ],
-  "userFavoriteMovies": [
-    []
+  "userWatchLists": [
+    {
+      "movieId": 2,
+      "userId": 1,
+      "watchList": true,
+      "id": 1
+    },
+    {
+      "movieId": 5,
+      "userId": 2,
+      "watchList": true,
+      "id": 2
+    }
   ]
 }

@@ -200,7 +200,8 @@
       "genreId": 7,
       "streamingServiceId": 4,
       "mpaRatingId": 2,
-      "description": "A magical animated adventure set in a Colombian town where each child has a unique gift."
+      "description": "A magical animated adventure set in a Colombian town where each child has a unique gift.",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg"
     },
     {
       "name": "Star Wars: A New Hope",
@@ -208,7 +209,8 @@
       "genreId": 9,
       "streamingServiceId": 4,
       "mpaRatingId": 2,
-      "description": "The classic space opera that started the iconic Star Wars franchise."
+      "description": "The classic space opera that started the iconic Star Wars franchise.",
+      "image": "https://i0.wp.com/www.chaoticanwriter.com/wp-content/uploads/2020/01/swnmr94173.jpg?fit=538%2C729&ssl=1"
     },
     {
       "name": "The Shawshank Redemption",
@@ -216,7 +218,8 @@
       "genreId": 3,
       "streamingServiceId": 10,
       "mpaRatingId": 4,
-      "description": "A powerful drama about hope and redemption in the prison system."
+      "description": "A powerful drama about hope and redemption in the prison system.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "The Dark Knight",
@@ -224,7 +227,8 @@
       "genreId": 11,
       "streamingServiceId": 5,
       "mpaRatingId": 3,
-      "description": "A thrilling superhero film that explores the complex nature of good and evil."
+      "description": "A thrilling superhero film that explores the complex nature of good and evil.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "Pulp Fiction",
@@ -232,7 +236,8 @@
       "genreId": 3,
       "streamingServiceId": 1,
       "mpaRatingId": 4,
-      "description": "A Quentin Tarantino masterpiece featuring intersecting stories of crime and redemption."
+      "description": "A Quentin Tarantino masterpiece featuring intersecting stories of crime and redemption.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
     },
     {
       "name": "Inception",
@@ -240,7 +245,8 @@
       "genreId": 1,
       "streamingServiceId": 2,
       "mpaRatingId": 3,
-      "description": "A mind-bending sci-fi thriller about dream heists and the power of the human mind."
+      "description": "A mind-bending sci-fi thriller about dream heists and the power of the human mind.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
     },
     {
       "name": "Jurassic Park",
@@ -248,7 +254,8 @@
       "genreId": 6,
       "streamingServiceId": 3,
       "mpaRatingId": 3,
-      "description": "An adventure film where dinosaurs are brought back to life in a theme park."
+      "description": "An adventure film where dinosaurs are brought back to life in a theme park.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "The Lion King",
@@ -256,7 +263,8 @@
       "genreId": 7,
       "streamingServiceId": 4,
       "mpaRatingId": 1,
-      "description": "A Disney animated classic about a young lion's journey to reclaim his kingdom."
+      "description": "A Disney animated classic about a young lion's journey to reclaim his kingdom.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "The Godfather",
@@ -264,7 +272,8 @@
       "genreId": 3,
       "streamingServiceId": 1,
       "mpaRatingId": 4,
-      "description": "An iconic crime drama exploring the dark underworld of organized crime."
+      "description": "An iconic crime drama exploring the dark underworld of organized crime.",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
     },
     {
       "name": "Black Panther",
@@ -272,7 +281,8 @@
       "genreId": 11,
       "streamingServiceId": 4,
       "mpaRatingId": 3,
-      "description": "A groundbreaking superhero film that celebrates African culture and tackles important social themes."
+      "description": "A groundbreaking superhero film that celebrates African culture and tackles important social themes.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
     },
     {
       "name": "The Social Network",
@@ -280,7 +290,8 @@
       "genreId": 3,
       "streamingServiceId": 2,
       "mpaRatingId": 3,
-      "description": "A gripping drama based on the founding of Facebook and the ensuing controversies."
+      "description": "A gripping drama based on the founding of Facebook and the ensuing controversies.",
+      "image": "https://miro.medium.com/v2/resize:fit:712/1*stgfTdpOB56JoRePBapJCA.jpeg"
     },
     {
       "name": "The Matrix",
@@ -288,7 +299,8 @@
       "genreId": 9,
       "streamingServiceId": 6,
       "mpaRatingId": 3,
-      "description": "A mind-bending sci-fi film that explores the nature of reality and the human condition."
+      "description": "A mind-bending sci-fi film that explores the nature of reality and the human condition.",
+      "image": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_UF894,1000_QL80_.jpg"
     },
     {
       "name": "Titanic",
@@ -296,7 +308,8 @@
       "genreId": 4,
       "streamingServiceId": 9,
       "mpaRatingId": 3,
-      "description": "An epic romantic disaster film set aboard the ill-fated RMS Titanic."
+      "description": "An epic romantic disaster film set aboard the ill-fated RMS Titanic.",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-458274544ae6a73face7eef63b604e1c-lq"
     },
     {
       "name": "The Avengers",
@@ -304,7 +317,8 @@
       "genreId": 11,
       "streamingServiceId": 4,
       "mpaRatingId": 3,
-      "description": "A superhero ensemble film that brings together Marvel's iconic characters."
+      "description": "A superhero ensemble film that brings together Marvel's iconic characters.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
     },
     {
       "name": "Forrest Gump",
@@ -312,7 +326,8 @@
       "genreId": 2,
       "streamingServiceId": 7,
       "mpaRatingId": 3,
-      "description": "A heartwarming and inspiring film that follows the extraordinary life of Forrest Gump."
+      "description": "A heartwarming and inspiring film that follows the extraordinary life of Forrest Gump.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "The Lord of the Rings: The Fellowship of the Ring",
@@ -320,7 +335,8 @@
       "genreId": 6,
       "streamingServiceId": 3,
       "mpaRatingId": 3,
-      "description": "The first installment in the epic fantasy trilogy based on J.R.R. Tolkien's novels."
+      "description": "The first installment in the epic fantasy trilogy based on J.R.R. Tolkien's novels.",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
     },
     {
       "name": "Interstellar",
@@ -328,7 +344,8 @@
       "genreId": 9,
       "streamingServiceId": 8,
       "mpaRatingId": 3,
-      "description": "A thought-provoking sci-fi film about space exploration, time dilation, and the survival of humanity."
+      "description": "A thought-provoking sci-fi film about space exploration, time dilation, and the survival of humanity.",
+      "image": "https://m.media-amazon.com/images/I/61pyUElLh7L._AC_UF894,1000_QL80_.jpg"
     },
     {
       "name": "Inglourious Basterds",
@@ -336,7 +353,8 @@
       "genreId": 1,
       "streamingServiceId": 6,
       "mpaRatingId": 4,
-      "description": "A Tarantino war film that follows a group of Jewish-American soldiers on a mission to assassinate Nazis."
+      "description": "A Tarantino war film that follows a group of Jewish-American soldiers on a mission to assassinate Nazis.",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg"
     },
     {
       "name": "The Incredibles",
@@ -344,7 +362,8 @@
       "genreId": 11,
       "streamingServiceId": 4,
       "mpaRatingId": 2,
-      "description": "An animated superhero film about a family with superpowers trying to save the world."
+      "description": "An animated superhero film about a family with superpowers trying to save the world.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "The Silence of the Lambs",
@@ -352,15 +371,8 @@
       "genreId": 8,
       "streamingServiceId": 3,
       "mpaRatingId": 4,
-      "description": "A psychological thriller featuring iconic characters like Hannibal Lecter and Clarice Starling."
-    },
-    {
-      "name": "Inception",
-      "id": 22,
-      "genreId": 1,
-      "streamingServiceId": 2,
-      "mpaRatingId": 3,
-      "description": "A mind-bending sci-fi thriller about dream heists and the power of the human mind."
+      "description": "A psychological thriller featuring iconic characters like Hannibal Lecter and Clarice Starling.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
     },
     {
       "name": "The Grand Budapest Hotel",
@@ -368,7 +380,8 @@
       "genreId": 2,
       "streamingServiceId": 6,
       "mpaRatingId": 4,
-      "description": "A whimsical comedy-drama set in a fictional European hotel during the interwar period."
+      "description": "A whimsical comedy-drama set in a fictional European hotel during the interwar period.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "Mad Max: Fury Road",
@@ -376,7 +389,8 @@
       "genreId": 6,
       "streamingServiceId": 8,
       "mpaRatingId": 4,
-      "description": "A thrilling post-apocalyptic action film set in a dystopian wasteland."
+      "description": "A thrilling post-apocalyptic action film set in a dystopian wasteland.",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "The Departed",
@@ -384,7 +398,8 @@
       "genreId": 5,
       "streamingServiceId": 1,
       "mpaRatingId": 4,
-      "description": "A gripping crime thriller about undercover agents and mob infiltration in Boston."
+      "description": "A gripping crime thriller about undercover agents and mob infiltration in Boston.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg"
     },
     {
       "name": "The Shape of Water",
@@ -392,7 +407,8 @@
       "genreId": 4,
       "streamingServiceId": 3,
       "mpaRatingId": 4,
-      "description": "A romantic fantasy film about a mute custodian who forms a unique connection with an amphibious creature."
+      "description": "A romantic fantasy film about a mute custodian who forms a unique connection with an amphibious creature.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg"
     },
     {
       "name": "Gone Girl",
@@ -400,7 +416,8 @@
       "genreId": 10,
       "streamingServiceId": 5,
       "mpaRatingId": 4,
-      "description": "A psychological thriller that explores the dark secrets and complexities of a troubled marriage."
+      "description": "A psychological thriller that explores the dark secrets and complexities of a troubled marriage.",
+      "image": "https://geekymythology.files.wordpress.com/2015/01/gone-girl.jpg?w=640"
     },
     {
       "name": "The Revenant",
@@ -408,7 +425,8 @@
       "genreId": 12,
       "streamingServiceId": 8,
       "mpaRatingId": 4,
-      "description": "A survival drama set in the 1820s American frontier, based on a true story."
+      "description": "A survival drama set in the 1820s American frontier, based on a true story.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
     },
     {
       "name": "La La Land",
@@ -416,7 +434,8 @@
       "genreId": 13,
       "streamingServiceId": 1,
       "mpaRatingId": 3,
-      "description": "A romantic musical that follows the love story of an aspiring actress and a jazz pianist in Los Angeles."
+      "description": "A romantic musical that follows the love story of an aspiring actress and a jazz pianist in Los Angeles.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg"
     },
     {
       "name": "The Prestige",
@@ -424,7 +443,8 @@
       "genreId": 5,
       "streamingServiceId": 7,
       "mpaRatingId": 3,
-      "description": "A mystery thriller about two rival magicians in late 19th-century London."
+      "description": "A mystery thriller about two rival magicians in late 19th-century London.",
+      "image": "https://m.media-amazon.com/images/I/51wILNNX2VL._AC_UF894,1000_QL80_.jpg"
     },
     {
       "name": "The Good, the Bad and the Ugly",
@@ -432,7 +452,8 @@
       "genreId": 12,
       "streamingServiceId": 1,
       "mpaRatingId": 3,
-      "description": "A classic spaghetti Western directed by Sergio Leone, featuring three gunslingers in search of buried treasure during the American Civil War."
+      "description": "A classic spaghetti Western directed by Sergio Leone, featuring three gunslingers in search of buried treasure during the American Civil War.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
     },
     {
       "name": "Toy Story",
@@ -440,7 +461,8 @@
       "genreId": 6,
       "streamingServiceId": 4,
       "mpaRatingId": 1,
-      "description": "A heartwarming animated film about the secret life of toys."
+      "description": "A heartwarming animated film about the secret life of toys.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg"
     },
     {
       "name": "Finding Nemo",
@@ -448,7 +470,8 @@
       "genreId": 6,
       "streamingServiceId": 4,
       "mpaRatingId": 1,
-      "description": "An underwater adventure of a clownfish searching for his son."
+      "description": "An underwater adventure of a clownfish searching for his son.",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/p_findingnemo_19752_05271d3f.jpeg?region=0%2C0%2C540%2C810"
     },
     {
       "name": "Frozen",
@@ -456,7 +479,8 @@
       "genreId": 7,
       "streamingServiceId": 4,
       "mpaRatingId": 1,
-      "description": "Two sisters learn that their love is all they need."
+      "description": "Two sisters learn that their love is all they need.",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/p_frozen_18373_3131259c.jpeg?region=0%2C0%2C540%2C810"
     },
     {
       "name": "Coco",
@@ -464,7 +488,8 @@
       "genreId": 7,
       "streamingServiceId": 4,
       "mpaRatingId": 1,
-      "description": "A vibrant animated film that celebrates the Mexican holiday, Day of the Dead."
+      "description": "A vibrant animated film that celebrates the Mexican holiday, Day of the Dead.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg"
     },
     {
       "name": "Moana",
@@ -472,7 +497,8 @@
       "genreId": 7,
       "streamingServiceId": 4,
       "mpaRatingId": 1,
-      "description": "An adventurous tale of a young girl setting sail on a daring journey."
+      "description": "An adventurous tale of a young girl setting sail on a daring journey.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "Ready Player One",
@@ -480,7 +506,8 @@
       "genreId": 9,
       "streamingServiceId": 10,
       "mpaRatingId": 3,
-      "description": "A thrilling adventure set in a virtual reality world where players compete to find an Easter egg that holds immense power."
+      "description": "A thrilling adventure set in a virtual reality world where players compete to find an Easter egg that holds immense power.",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg"
     },
     {
       "name": "The Green Knight",
@@ -488,7 +515,8 @@
       "genreId": 6,
       "streamingServiceId": 10,
       "mpaRatingId": 4,
-      "description": "A medieval fantasy film based on the Arthurian legend of Sir Gawain and the Green Knight."
+      "description": "A medieval fantasy film based on the Arthurian legend of Sir Gawain and the Green Knight.",
+      "image": "https://d135u4jtzauizi.cloudfront.net/IMG_7028.JPG"
     },
     {
       "name": "Dark Skies",
@@ -496,7 +524,8 @@
       "genreId": 8,
       "streamingServiceId": 10,
       "mpaRatingId": 4,
-      "description": "A supernatural horror film about a suburban family plagued by a series of disturbing events."
+      "description": "A supernatural horror film about a suburban family plagued by a series of disturbing events.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxNDE1OTgyOF5BMl5BanBnXkFtZTcwMTEyMzMxOQ@@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "The Visit",
@@ -504,7 +533,8 @@
       "genreId": 8,
       "streamingServiceId": 10,
       "mpaRatingId": 4,
-      "description": "A found footage horror film where two siblings visit their grandparents' remote farmhouse and encounter terrifying events."
+      "description": "A found footage horror film where two siblings visit their grandparents' remote farmhouse and encounter terrifying events.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/The_Visit_%282015_film%29_poster.jpg"
     },
     {
       "name": "Atlantic Rim",
@@ -512,7 +542,8 @@
       "genreId": 1,
       "streamingServiceId": 10,
       "mpaRatingId": 3,
-      "description": "A sci-fi action film following a team of pilots who operate giant robots to defend against monstrous creatures from the ocean."
+      "description": "A sci-fi action film following a team of pilots who operate giant robots to defend against monstrous creatures from the ocean.",
+      "image": "https://musicart.xboxlive.com/7/2f241100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
     },
     {
       "name": "Knives Out",
@@ -520,7 +551,8 @@
       "genreId": 10,
       "streamingServiceId": 9,
       "mpaRatingId": 4,
-      "description": "A modern whodunit murder mystery that follows a renowned detective investigating the death of a wealthy patriarch."
+      "description": "A modern whodunit murder mystery that follows a renowned detective investigating the death of a wealthy patriarch.",
+      "image": "https://popculturehangover.files.wordpress.com/2020/05/79daef4e7bb00b638cff391ccf68262d.png?w=723"
     },
     {
       "name": "The Sound of Music",
@@ -528,7 +560,8 @@
       "genreId": 13,
       "streamingServiceId": 6,
       "mpaRatingId": 2,
-      "description": "A classic musical about a young woman who becomes a governess for a widower's seven children and brings music and joy back into their lives."
+      "description": "A classic musical about a young woman who becomes a governess for a widower's seven children and brings music and joy back into their lives.",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/soundofmusic_2_d860d47a.jpeg"
     },
     {
       "name": "The Greatest Showman",
@@ -536,7 +569,8 @@
       "genreId": 13,
       "streamingServiceId": 8,
       "mpaRatingId": 2,
-      "description": "A musical inspired by the life of P.T. Barnum and the creation of his famous circus."
+      "description": "A musical inspired by the life of P.T. Barnum and the creation of his famous circus.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI1NDYzNzY2Ml5BMl5BanBnXkFtZTgwODQwODczNTM@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "Mamma Mia!",
@@ -544,7 +578,8 @@
       "genreId": 13,
       "streamingServiceId": 7,
       "mpaRatingId": 2,
-      "description": "A feel-good musical featuring the hits of ABBA and a story set on a Greek island."
+      "description": "A feel-good musical featuring the hits of ABBA and a story set on a Greek island.",
+      "image": "https://musicart.xboxlive.com/7/3c5a1100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
     },
     {
       "name": "Hamilton",
@@ -552,7 +587,8 @@
       "genreId": 13,
       "streamingServiceId": 4,
       "mpaRatingId": 2,
-      "description": "A groundbreaking musical that blends hip-hop, history, and the story of American founding father Alexander Hamilton."
+      "description": "A groundbreaking musical that blends hip-hop, history, and the story of American founding father Alexander Hamilton.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "Spiderman: No Way Home",
@@ -560,15 +596,17 @@
       "streamingServiceId": "4",
       "mpaRatingId": "3",
       "description": "When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-      "id": 47
+      "id": 47,
+      "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "Pretty in Pink",
       "genreId": "4",
       "streamingServiceId": "8",
       "mpaRatingId": "3",
-      "description": "\"A movie that Bri likes :)\"",
-      "id": 48
+      "description": "A movie that Bri likes :)",
+      "id": 48,
+      "image": "https://m.media-amazon.com/images/M/MV5BOGE3ZmVjMzMtMDcxNi00YjM5LTg3NjMtZWMxYjlhNTk2MmZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
     },
     {
       "name": "A Walk To Remember",
@@ -576,7 +614,8 @@
       "streamingServiceId": "5",
       "mpaRatingId": "2",
       "description": "An unlikely friendship forms when Landon meets Jamie while participating in the high school play",
-      "id": 49
+      "id": 49,
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU3NTYxM2MtNjViMS00YmNlLWEwM2MtYWI2MzgzNTkxODFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
     },
     {
       "name": "How to Lose a Guy in Ten Days",
@@ -584,7 +623,8 @@
       "streamingServiceId": "7",
       "mpaRatingId": "3",
       "description": "An advice columnist tries pushing the boundaries of what she can write about in her new piece about how to get a man to leave you in 10 days.",
-      "id": 50
+      "id": 50,
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4NTA1NzExN15BMl5BanBnXkFtZTYwNjc3MjM3._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "Avengers: Endgame",
@@ -592,7 +632,17 @@
       "streamingServiceId": "4",
       "mpaRatingId": "3",
       "description": "The conclusion of the epic infinity saga",
-      "id": 51
+      "id": 51,
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"
+    },
+    {
+      "name": "Avengers: Age of Ultron",
+      "genreId": "11",
+      "streamingServiceId": "4",
+      "mpaRatingId": "3",
+      "description": "\"Avengers: Age of Ultron\" follows the superhero team as they battle against Ultron, an artificial intelligence gone rogue",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+      "id": 52
     }
   ],
   "userWatchLists": [
@@ -607,6 +657,36 @@
       "userId": 2,
       "watchList": true,
       "id": 2
+    },
+    {
+      "movieId": 10,
+      "userId": 2,
+      "watchList": true,
+      "id": 3
+    },
+    {
+      "movieId": 15,
+      "userId": 2,
+      "watchList": true,
+      "id": 4
+    },
+    {
+      "movieId": 4,
+      "userId": 1,
+      "watchList": true,
+      "id": 5
+    },
+    {
+      "movieId": 6,
+      "userId": 1,
+      "watchList": true,
+      "id": 6
+    },
+    {
+      "movieId": 5,
+      "userId": 1,
+      "watchList": true,
+      "id": 7
     }
   ]
 }

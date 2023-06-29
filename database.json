@@ -652,13 +652,22 @@
       "description": "A pathological liar suddenly finds himself unable to lie for 24-hours.",
       "image": "https://images.moviesanywhere.com/3ffc13557deddf5874cec3be3099df06/7ebab794-dd88-49e7-9de0-a8e144830f6f.jpg",
       "id": 53
+    },
+    {
+      "name": "Tremors",
+      "genreId": "8",
+      "streamingServiceId": "3",
+      "mpaRatingId": "3",
+      "description": "Ancient underground worms try to devour a secluded dessert town.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_FMjpg_UX1000_.jpg",
+      "id": 54
     }
   ],
   "userWatchListAndFavorites": [
     {
       "movieId": 2,
       "userId": 1,
-      "watchList": true,
+      "watchList": false,
       "favorite": false,
       "id": 1
     },
@@ -693,7 +702,7 @@
     {
       "movieId": 6,
       "userId": 1,
-      "watchList": true,
+      "watchList": false,
       "favorite": false,
       "id": 6
     },
@@ -787,6 +796,104 @@
       "watchList": false,
       "favorite": true,
       "id": 19
+    },
+    {
+      "movieId": 54,
+      "userId": 8,
+      "watchList": false,
+      "favorite": true,
+      "id": 20
+    },
+    {
+      "movieId": 2,
+      "userId": 8,
+      "watchList": true,
+      "favorite": false,
+      "id": 21
+    },
+    {
+      "movieId": 6,
+      "userId": 8,
+      "watchList": true,
+      "favorite": false,
+      "id": 22
+    },
+    {
+      "movieId": 7,
+      "userId": 8,
+      "watchList": true,
+      "favorite": false,
+      "id": 23
+    },
+    {
+      "movieId": 8,
+      "userId": 8,
+      "watchList": true,
+      "favorite": false,
+      "id": 24
+    },
+    {
+      "movieId": 9,
+      "userId": 8,
+      "watchList": false,
+      "favorite": true,
+      "id": 25
+    },
+    {
+      "movieId": 10,
+      "userId": 8,
+      "watchList": false,
+      "favorite": true,
+      "id": 26
+    },
+    {
+      "movieId": 11,
+      "userId": 9,
+      "watchList": true,
+      "favorite": false,
+      "id": 27
+    },
+    {
+      "movieId": 2,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 28
+    },
+    {
+      "movieId": 3,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 29
+    },
+    {
+      "movieId": 47,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 30
+    },
+    {
+      "movieId": 3,
+      "userId": 1,
+      "watchList": false,
+      "favorite": true,
+      "id": 31
+    },
+    {
+      "movieId": 47,
+      "userId": 1,
+      "watchList": false,
+      "favorite": true,
+      "id": 32
+    },
+    {
+      "movieId": 2,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 33
     }
   ]
 }

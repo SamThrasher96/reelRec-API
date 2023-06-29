@@ -3,72 +3,86 @@
     {
       "id": 1,
       "name": "Sam",
-      "email": "sam@gmail.com"
+      "email": "sam@gmail.com",
+      "profilePic": "https://i.imgur.com/kN4Z7re.jpg"
     },
     {
       "id": 2,
       "name": "Casey",
-      "email": "casey@gmail.com"
+      "email": "casey@gmail.com",
+      "profilePic": "https://i.imgur.com/HJloLwX.jpg"
     },
     {
       "id": 3,
       "name": "Logan",
-      "email": "logan@gmail.com"
+      "email": "logan@gmail.com",
+      "profilePic": "https://i.imgur.com/MbIS8Cd.png"
     },
     {
       "id": 4,
       "name": "Kelsey",
-      "email": "kelsey@gmail.com"
+      "email": "kelsey@gmail.com",
+      "profilePic": "https://i.imgur.com/Twt9MFb.jpg"
     },
     {
       "id": 5,
       "name": "Katie",
-      "email": "katie@gmail.com"
+      "email": "katie@gmail.com",
+      "profilePic": "https://i.imgur.com/bMdMcXu.jpg"
     },
     {
       "id": 6,
       "name": "Bri",
-      "email": "briLovesPeanutButterCups@gmail.com"
+      "email": "briLovesPeanutButterCups@gmail.com",
+      "profilePic": "https://i.imgur.com/CznzWAC.jpg"
     },
     {
       "id": 7,
       "name": "Will",
-      "email": "will@gmail.com"
+      "email": "will@gmail.com",
+      "profilePic": "https://i.imgur.com/PJqdyW8.png"
     },
     {
       "id": 8,
       "name": "Eleana",
-      "email": "elena@gmail.com"
+      "email": "elena@gmail.com",
+      "profilePic": "https://i.imgur.com/YC02bV0.jpg"
     },
     {
       "id": 9,
       "name": "Megan",
-      "email": "megan@gmail.com"
+      "email": "megan@gmail.com",
+      "profilePic": "https://i.imgur.com/adHS4lH.jpg"
     },
     {
       "id": 10,
       "name": "Emma",
-      "email": "emma@gmail.com"
+      "email": "emma@gmail.com",
+      "profilePic": "https://i.imgur.com/CokxXhD.jpg"
     },
     {
       "email": "tiana@legolover.com",
       "name": "Tiana Robinson",
-      "id": 11
+      "id": 11,
+      "profilePic": "https://i.imgur.com/Jgthkv1.jpg"
     },
     {
       "email": "steve@gmail.com",
       "name": "steve",
-      "id": 12
+      "id": 12,
+      "profilePic": "https://i.imgur.com/Ho5gBlC.jpg"
     },
     {
       "email": "sefora@gmail.com",
       "name": "Sefora",
-      "id": 13
+      "id": 13,
+      "profilePic": "https://i.imgur.com/ryC5fj7.jpg"
     },
     {
       "email": "belle@gmail.com",
       "name": "Belle",
-      "id": 14
+      "id": 14,
+      "profilePic": "https://i.imgur.com/BkXiucL.png"
     }
   ],
   "genres": [
@@ -894,6 +908,20 @@
       "watchList": false,
       "favorite": false,
       "id": 33
+    },
+    {
+      "movieId": 7,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 34
+    },
+    {
+      "movieId": 9,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 35
     }
   ]
 }

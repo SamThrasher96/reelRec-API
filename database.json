@@ -21,7 +21,7 @@
     {
       "id": 4,
       "name": "Kelsey",
-      "email": "kelsey@gmail.com",
+      "email": "kelsey1@gmail.com",
       "profilePic": "https://i.imgur.com/Twt9MFb.jpg"
     },
     {
@@ -83,6 +83,12 @@
       "name": "Belle",
       "id": 14,
       "profilePic": "https://i.imgur.com/BkXiucL.png"
+    },
+    {
+      "email": "tyler@gmail.com",
+      "name": "Tyler",
+      "profilePic": "https://i.imgur.com/tw1KxYx.jpg",
+      "id": 15
     }
   ],
   "genres": [
@@ -922,6 +928,55 @@
       "watchList": false,
       "favorite": false,
       "id": 35
+    },
+    {
+      "movieId": 2,
+      "userId": 15,
+      "watchList": true,
+      "favorite": false,
+      "id": 36
+    },
+    {
+      "movieId": 3,
+      "userId": 15,
+      "watchList": true,
+      "favorite": false,
+      "id": 37
+    },
+    {
+      "movieId": 18,
+      "userId": 15,
+      "watchList": true,
+      "favorite": false,
+      "id": 38
+    },
+    {
+      "movieId": 20,
+      "userId": 15,
+      "watchList": true,
+      "favorite": false,
+      "id": 39
+    },
+    {
+      "movieId": 2,
+      "userId": 12,
+      "watchList": true,
+      "favorite": false,
+      "id": 40
+    },
+    {
+      "movieId": 36,
+      "userId": 12,
+      "watchList": true,
+      "favorite": false,
+      "id": 41
+    },
+    {
+      "movieId": 34,
+      "userId": 12,
+      "watchList": true,
+      "favorite": false,
+      "id": 42
     }
   ]
 }

@@ -4,7 +4,8 @@
       "id": 1,
       "name": "Sam",
       "email": "sam@gmail.com",
-      "profilePic": "https://i.imgur.com/kN4Z7re.jpg"
+      "profilePic": "https://i.imgur.com/kN4Z7re.jpg",
+      "rating": 5
     },
     {
       "id": 2,
@@ -681,6 +682,276 @@
       "description": "Ancient underground worms try to devour a secluded dessert town.",
       "image": "https://m.media-amazon.com/images/M/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_FMjpg_UX1000_.jpg",
       "id": 54
+    },
+    {
+      "name": "Descendants",
+      "genreId": "3",
+      "streamingServiceId": "4",
+      "mpaRatingId": "1",
+      "description": "The good guys and the bad guys are separated, but unexpected circumstances bring them back together",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA5MTE2Mzc5MjReQTJeQWpwZ15BbWU4MDk0Njg2ODUx._V1_.jpg",
+      "id": 55
+    },
+    {
+      "name": "Blonde",
+      "genreId": 3,
+      "streamingServiceId": 1,
+      "mpaRatingId": 5,
+      "description": "A look at the rise to fame and the epic demise of actress Marilyn Monroe",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDk2YTA1MGYtMGNjMi00YTJlLWI1YjItMjBjOGJlZGIwZmYzXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
+      "id": 56
+    },
+    {
+      "name": "Dune",
+      "genreId": 9,
+      "streamingServiceId": 5,
+      "mpaRatingId": 3,
+      "description": "Paul Atreides must travel to the most dangerous planet in the universe to ensure the future of his family and his people.",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPqS6UaUbAFXbexufzQLa9PrCxjjw5MFTsEjsDC0ppVOhBcrmw",
+      "id": 57
+    },
+    {
+      "name": "The Suicide Squad",
+      "genreId": 11,
+      "streamingServiceId": 5,
+      "mpaRatingId": 4,
+      "description": "The government sends the most dangerous supervillains in the world to Corto Maltese.",
+      "image": "https://images.radiox.co.uk/images/228803?crop=16_9&width=660&relax=1&format=webp&signature=H1yzR8nch0JJxizlMrJSbU4Z5FU=",
+      "id": 58
+    },
+    {
+      "name": "John Wick: Chapter 4",
+      "genreId": 1,
+      "streamingServiceId": 2,
+      "mpaRatingId": 4,
+      "description": "Legendary hit man John Wick takes his fight against the High Table global",
+      "image": "https://m.media-amazon.com/images/I/81fk-N7tvbL._AC_UF894,1000_QL80_.jpg",
+      "id": 59
+    },
+    {
+      "name": "The Super Mario Bros. Movie",
+      "genreId": 7,
+      "streamingServiceId": 2,
+      "mpaRatingId": 2,
+      "description": "Mario falls into a new world and he has to save it!",
+      "image": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/super-mario-bros/images/regions/us/onesheet.jpg",
+      "id": 60
+    },
+    {
+      "name": "Fast X",
+      "genreId": 1,
+      "streamingServiceId": 8,
+      "mpaRatingId": 3,
+      "description": "A terrifying threat emerges from the shadows of the past to shatter Dom's world",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+      "id": 61
+    },
+    {
+      "name": "Air",
+      "genreId": 3,
+      "streamingServiceId": 2,
+      "mpaRatingId": 4,
+      "description": "Sonny Vaccaro and Nike pursue basketball rookie Michael Jordan",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjZjNmJkYjItZjBiYS00MGI5LWFkM2YtMWQ0YjZmNTI0YTY3XkEyXkFqcGdeQXVyMTUzMTQ0NzQz._V1_.jpg",
+      "id": 62
+    },
+    {
+      "name": "A Man Called Otto",
+      "genreId": 3,
+      "streamingServiceId": 8,
+      "mpaRatingId": 3,
+      "description": "Grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzg3OTEzMTgtYWU0OC00YTI0LWIxOTAtNmRkNTc0Nzg2YWU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg",
+      "id": 63
+    },
+    {
+      "name": "Tick, Tick... Boom!",
+      "genreId": 13,
+      "streamingServiceId": 1,
+      "mpaRatingId": 3,
+      "description": "Based on the autobiographical musical by playwright Jonathan Larson",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmMyMmE0M2UtN2E2MC00YzVmLTkwODgtOTVhYjVlOTBhY2RjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "id": 64
+    },
+    {
+      "name": "About Time",
+      "genreId": 4,
+      "streamingServiceId": 7,
+      "mpaRatingId": 4,
+      "description": "When Tim Lake is 21, his father tells him a secret: The men in their family can travel through time",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiW0PLIsUpC7LKTc88RWPIeScQ8wc75uGhdLIJtGXcAlYIAykq",
+      "id": 65
+    },
+    {
+      "name": "Tenet",
+      "genreId": 5,
+      "streamingServiceId": 3,
+      "mpaRatingId": 4,
+      "description": "A secret agent is given a single word as his weapon and sent to prevent the onset of World War III.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU3YWYwNTQtZTdiMC00NjY5LTlmMTMtZDFlYTEyODBjMTk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "id": 66
+    },
+    {
+      "name": "Dungeons & Dragons: Honor Among Thieves",
+      "genreId": 6,
+      "streamingServiceId": 9,
+      "mpaRatingId": 3,
+      "description": "A charming thief and a band of unlikely adventurers embark on an epic quest",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmFkN2M2NzItOTY5YS00MmE2LTk3ZjctNTk2YzQ5ZmRiYzJjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+      "id": 67
+    },
+    {
+      "name": "Evil Dead Rise",
+      "genreId": 8,
+      "streamingServiceId": 3,
+      "mpaRatingId": 4,
+      "description": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmZiN2VmMjktZDE5OC00ZWRmLWFlMmEtYWViMTY4NjM3ZmNkXkEyXkFqcGdeQXVyMTI2MTc2ODM3._V1_FMjpg_UX1000_.jpg",
+      "id": 68
+    },
+    {
+      "name": "Glass Onion",
+      "genreId": 10,
+      "streamingServiceId": 1,
+      "mpaRatingId": 4,
+      "description": "Miles Bron invites his friends for a getaway on his private island. When someone turns up dead, Detective Blanc is on the case.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg",
+      "id": 69
+    },
+    {
+      "name": "The Hateful Eight",
+      "genreId": 12,
+      "streamingServiceId": 10,
+      "mpaRatingId": 4,
+      "description": "A group of strangers get trapped together during a blizzard, leading to a tense and violent confrontation.",
+      "image": "https://e.snmc.io/i/300/s/1268919c99872909984186818a69bb5b/5764473",
+      "id": 70
+    },
+    {
+      "name": "Minari",
+      "genreId": 3,
+      "streamingServiceId": 10,
+      "mpaRatingId": 3,
+      "description": "A Korean American family moves to an Arkansas farm in search of its own American dream.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWEzOTNjNDgtZDhhYS00ODAxLWIzNGMtYjU3OGZhYmI3ZDU4XkEyXkFqcGdeQXVyMTAzNjk5MDI4._V1_.jpg",
+      "id": 71
+    },
+    {
+      "name": "Babylon",
+      "genreId": 3,
+      "streamingServiceId": 9,
+      "mpaRatingId": 4,
+      "description": "Decadence, depravity and outrageous excess lead to the rise and fall of several ambitious dreamers in 1920s Hollywood ",
+      "image": "https://musicart.xboxlive.com/7/19866400-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "id": 72
+    },
+    {
+      "name": "Top Gun: Maverick",
+      "genreId": 6,
+      "streamingServiceId": 8,
+      "mpaRatingId": 3,
+      "description": "The story of Pete 'Maverick' Mitchell as he mentors a new generation of fighter pilots while confronting his past.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+      "id": 73
+    },
+    {
+      "name": "Sixty-Five",
+      "genreId": 9,
+      "streamingServiceId": 7,
+      "mpaRatingId": 3,
+      "description": "After a catastrophic crash pilot Mills quickly discovers he's actually stranded on Earth -- 65 million years ago.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/65_film_teaser_poster.jpg",
+      "id": 74
+    },
+    {
+      "name": "Knock at the Cabin",
+      "genreId": 8,
+      "streamingServiceId": 6,
+      "mpaRatingId": 4,
+      "description": "While vacationing at a cabin, a young girl and her parents are taken hostage by armed strangers who demand they make an unthinkable choice",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/Knock_at_the_cabin.jpg",
+      "id": 75
+    },
+    {
+      "name": "Parasite",
+      "genreId": 5,
+      "streamingServiceId": 5,
+      "mpaRatingId": 4,
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "image": "https://musicart.xboxlive.com/7/6e3a5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "id": 76
+    },
+    {
+      "name": "Prey",
+      "genreId": 9,
+      "streamingServiceId": 3,
+      "mpaRatingId": 4,
+      "description": "A skilled Comanche warrior protects her tribe from a highly evolved alien predator ",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/p_prey_246_caa2c8c5.jpeg?region=0%2C0%2C540%2C810",
+      "id": 77
+    },
+    {
+      "name": "Creed",
+      "genreId": 3,
+      "streamingServiceId": 2,
+      "mpaRatingId": 3,
+      "description": "Adonis Johnson, the son of legendary boxer Apollo Creed, strives to make a name for himself in the ring with the help of his father's former rival, Rocky Balboa.",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ07u0Xj8IACCXv1lvFffsLYW4RgE4lq9O0QCXVgI6JHlJIije2",
+      "id": 78
+    },
+    {
+      "name": "Nimona",
+      "genreId": 7,
+      "streamingServiceId": 1,
+      "mpaRatingId": 2,
+      "description": "A knight is framed for a crime he didn't commit, and the only person who can help him prove his innocence is Nimona",
+      "image": "https://dnm.nflximg.net/api/v6/WNk1mr9x_Cd_2itp6pUM7-lXMJg/AAAABZ_dcUEB7Iu7E0Hxz-OqQcTqR6mMz1Fibbvw6EVqHN3ySaYqqGpJ77lEWXfWZqhAjYjdChlLH2ybSxSWMHhW4wRKnV-o-4wLOGWjYvcFyzFvrZXcj7xJtozX7euXEbSju89qrw.jpg?r=ab2",
+      "id": 79
+    },
+    {
+      "name": "Luck",
+      "genreId": 7,
+      "streamingServiceId": 6,
+      "mpaRatingId": 1,
+      "description": "The story of Sam Greenfield, the unluckiest person in the world",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpAzH_s5gSULbJ_vwGWzR4GvL5KHBv0ap_D7H2oyaDxX5_oeYt",
+      "id": 80
+    },
+    {
+      "name": "The Mitchells vs. the Machines",
+      "genreId": 7,
+      "streamingServiceId": 1,
+      "mpaRatingId": 2,
+      "description": "Young Katie Mitchell embarks on a road trip with her proud parents",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjdkZjNjNDItYzc4MC00NTkxLTk1MWEtY2UyZjY5MjUwNDNkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_.jpg",
+      "id": 81
+    },
+    {
+      "name": "Fall",
+      "genreId": 5,
+      "streamingServiceId": 8,
+      "mpaRatingId": 3,
+      "description": "Two friends climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down.",
+      "image": "https://deadline.com/wp-content/uploads/2023/03/fyuoirKpkTIjKPf88C81FkGdAVo-1.jpg?w=683",
+      "id": 82
+    },
+    {
+      "name": "Don't Look Up",
+      "genreId": 2,
+      "streamingServiceId": 6,
+      "mpaRatingId": 4,
+      "description": "Two low-level astronomers must go on a giant media tour to warn mankind of an approaching comet that will destroy planet Earth.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjcwZjY3NjAtNzkxZS00NmFjLTg1OGYtODJmMThhY2UwMTc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+      "id": 83
+    },
+    {
+      "name": "Don't Worry Darling",
+      "genreId": 5,
+      "streamingServiceId": 5,
+      "mpaRatingId": 4,
+      "description": "Alice and Jack live in the idealized community of Victory, an experimental company town that houses the men who work on a top-secret project",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFkMWUzM2ItZWFjMi00NDY0LTk2MDMtZDhkMDE2MjRlYmZlXkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg",
+      "id": 84
     }
   ],
   "userWatchListAndFavorites": [
@@ -715,7 +986,7 @@
     {
       "movieId": 4,
       "userId": 1,
-      "watchList": true,
+      "watchList": false,
       "favorite": false,
       "id": 5
     },
@@ -729,7 +1000,7 @@
     {
       "movieId": 5,
       "userId": 1,
-      "watchList": true,
+      "watchList": false,
       "favorite": false,
       "id": 7
     },
@@ -898,7 +1169,7 @@
       "movieId": 3,
       "userId": 1,
       "watchList": false,
-      "favorite": true,
+      "favorite": false,
       "id": 31
     },
     {
@@ -977,6 +1248,195 @@
       "watchList": true,
       "favorite": false,
       "id": 42
+    },
+    {
+      "movieId": 2,
+      "userId": 10,
+      "watchList": false,
+      "favorite": false,
+      "id": 43
+    },
+    {
+      "movieId": 34,
+      "userId": 10,
+      "watchList": false,
+      "favorite": false,
+      "id": 44
+    },
+    {
+      "movieId": 55,
+      "userId": 10,
+      "watchList": false,
+      "favorite": true,
+      "id": 45
+    },
+    {
+      "movieId": 35,
+      "userId": 10,
+      "watchList": false,
+      "favorite": true,
+      "id": 46
+    },
+    {
+      "movieId": 33,
+      "userId": 10,
+      "watchList": true,
+      "favorite": false,
+      "id": 47
+    },
+    {
+      "movieId": 8,
+      "userId": 10,
+      "watchList": true,
+      "favorite": false,
+      "id": 48
+    },
+    {
+      "movieId": 3,
+      "userId": 10,
+      "watchList": true,
+      "favorite": false,
+      "id": 49
+    },
+    {
+      "movieId": 15,
+      "userId": 10,
+      "watchList": true,
+      "favorite": false,
+      "id": 50
+    },
+    {
+      "movieId": 52,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 51
+    },
+    {
+      "movieId": 51,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 52
+    },
+    {
+      "movieId": 11,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 53
+    },
+    {
+      "movieId": 42,
+      "userId": 1,
+      "watchList": false,
+      "favorite": true,
+      "id": 54
+    },
+    {
+      "movieId": 36,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 55
+    },
+    {
+      "movieId": 53,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 56
+    },
+    {
+      "movieId": 24,
+      "userId": 1,
+      "watchList": false,
+      "favorite": false,
+      "id": 57
+    },
+    {
+      "movieId": 14,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 58
+    },
+    {
+      "movieId": 50,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 59
+    },
+    {
+      "movieId": 65,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 60
+    },
+    {
+      "movieId": 84,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 61
+    },
+    {
+      "movieId": 52,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 62
+    },
+    {
+      "movieId": 11,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 63
+    },
+    {
+      "movieId": 51,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 64
+    },
+    {
+      "movieId": 47,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 65
+    },
+    {
+      "movieId": 15,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 66
+    },
+    {
+      "movieId": 3,
+      "userId": 1,
+      "watchList": true,
+      "favorite": false,
+      "id": 67
+    },
+    {
+      "movieId": 36,
+      "userId": 1,
+      "watchList": false,
+      "favorite": true,
+      "id": 68
+    },
+    {
+      "movieId": 3,
+      "userId": 1,
+      "watchList": false,
+      "favorite": true,
+      "id": 69
     }
   ]
 }
